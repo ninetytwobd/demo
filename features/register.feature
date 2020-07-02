@@ -12,6 +12,6 @@ Then CLICK ON REGISTER LINK
 Then VERIFY Contact Information TEXT DISPLAY
 
 
-## This is our Git class 
+
 
 
